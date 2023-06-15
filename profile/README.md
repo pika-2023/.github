@@ -4,16 +4,16 @@
 
 ## 목차 :books:
 
-- [도입 :tada: ](#도입-tada)
+- [Intro :tada: ](#도입-tada)
   - [Team](#Team)
   - [Background](#Background)
   - [Service](#Service)
   - [Demo](#Demo)
-- [설계 :rocket:](#설계-rocket)
-  - [디자인](#디자인)
-  - [프론트엔드](#프론트엔드)
-  - [백엔드](#백엔드)
-- [라이선스 :scroll:](#라이선스-scroll)
+- [Architecture :rocket:](#Architecture-rocket)
+  - [Design](#Design)
+  - [Frontend-Dev](#Frontend-Dev)
+  - [Backend-Dev](#Backend-Dev)
+- [Licence :scroll:](#Licence-scroll)
 
 ### 도입 :tada:
 
@@ -88,13 +88,13 @@
 
 ![USER JOURNEY MAP](https://github.com/pika-2023/.github/assets/90823532/522fa784-eb88-4657-8acd-a1f1534b949e)
 
-### 설계 :rocket:
+### Architecture :rocket:
 
-#### 디자인
+#### Design
 
 > 더 자세한 UI 작업물은 [피그마](https://www.figma.com/file/vv0OYNixPv2pL1pFThJ9Ad/%EC%83%88%EB%A1%9D%EC%83%88%EB%A1%9D?type=design&node-id=0-1&t=Gst40xWQ0W1mBxBF-0)에서 확인 가능합니다.
 
-#### 프론트엔드
+#### Frontend-Dev
 
 > 더 자세한 소스코드는 [FRONTEND 디렉토리](https://github.com/pika-2023/saeroksaerok-frontend) 파일에서 확인 가능합니다.
 
@@ -102,7 +102,7 @@
 
 - 기술스택
 
-#### 백엔드
+#### Backend-Dev
 
 > 더 자세한 소스코드는 [BACKEND 디렉토리](https://github.com/pika-2023/saeroksaerok-backend) 파일에서 확인 가능합니다.
 
@@ -114,6 +114,6 @@
 - Server: Apache Tomcat
 - Deploy: Github Actions, AWS EC2, AWS S3, AWS CodeDeploy
 
-### 라이선스 :scroll:
+### Licence :scroll:
 
 [MIT 라이선스](./LICENSE)를 준수합니다.
