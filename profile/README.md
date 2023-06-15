@@ -1,4 +1,4 @@
-![Main Image](우리서비스 썸네일)
+![PRODUCT OVERVIEW](https://github.com/pika-2023/.github/assets/90823532/b476ae4b-262d-47ec-aec4-1811d2770ceb)
 
 > 본 프로젝트는 2023년 00월 00일 0요일부터 00월 00일 0요일까지 00 그리고 00에서 주최하여 진행한 제 1회 0000 출품작입니다.
 
