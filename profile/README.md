@@ -1,4 +1,4 @@
-![PRODUCT OVERVIEW](https://github.com/pika-2023/.github/assets/90823532/b476ae4b-262d-47ec-aec4-1811d2770ceb)
+![SOLUTION (1)](https://github.com/pika-2023/.github/assets/90823532/7335e1f3-1d26-4d0d-9092-01a687a41dff)![PRODUCT OVERVIEW](https://github.com/pika-2023/.github/assets/90823532/b476ae4b-262d-47ec-aec4-1811d2770ceb)
 
 > 본 프로젝트는 2023년 00월 00일 0요일부터 00월 00일 0요일까지 00 그리고 00에서 주최하여 진행한 제 1회 0000 출품작입니다.
 
@@ -8,6 +8,7 @@
   - [Team](#Team)
   - [Background](#Background)
   - [Service](#Service)
+  - [Demo](#Demo)
 - [설계 :rocket:](#설계-rocket)
   - [디자인](#디자인)
   - [프론트엔드](#프론트엔드)
@@ -37,39 +38,66 @@
 
 #### Background
 
-### 노인 우울증과 치매 간의 상관관계
+<b>노인 우울증과 치매 간의 상관관계</b>
 
 노인 우울증으로 인한 인지 저하에 따라 치매 발병 위험이 12배에서 46배로 증가하며,
 
 노인 우울증 조기 발견 후 치료시 완치율이 80%에 달하는 것으로 파악되었습니다.
 
+또한, 연령에 따른 우울 증상 조사의 결과 노년층의 대부분을 차지하는 증상이 **기억력 저하**와 **외로움**인 것을 확인할 수 있었습니다.
+
+![BACKGROUND](https://github.com/pika-2023/.github/assets/90823532/e887692b-7306-47b3-9b6e-3228e1eaf0c7)
+![BACKGROUND (1)](https://github.com/pika-2023/.github/assets/90823532/b8e0b103-0646-4999-8796-259ee1dfa3a5)
+
+<b>인지중재피료법의 한계점</b>
+
+위와 같은 사회적 현상을 해소하기 위한 대표적인 방안인 인지중재치료는 30% 이상의 감소효과를 가지지만,
+
+**개인 맞춤화된 치료 필요** 및 **일상 속 지속적인 치료의 어려움** 등의 한계점을 동시에 가지는 것으로 나타났습니다.
+
+![BACKGROUND (2)](https://github.com/pika-2023/.github/assets/90823532/7ecdcf40-8ee1-42bd-96d5-c5b627afdefb)
+
+<b>외로움</b>
+
+뿐만 아니라 고연령층의 특성에 따른 낮은 사회활동과 소통 횟수는 노인의 우울증을 야기하는데 비해
+
+**소통 기반 서비스**의 사용으로 개인적 만족도와 자아존중감을 높일 수 있는 것으로 확인되었습니다.
+
+![BACKGROUND (3)](https://github.com/pika-2023/.github/assets/90823532/105b2dd4-3342-442a-8eae-c04a0ae3390b)
 
 #### Service
 
+이에 저의 초록초록팀은 **회상요법**을 통한 **치매예방**서비스 **새록새록**을 그에 대한 솔루션으로 제시합니다.
+
+![SOLUTION](https://github.com/pika-2023/.github/assets/90823532/7158478b-a9b3-4bb7-9f1e-5a40b4f47167)
+![PRODUCT OVERVIEW (1)](https://github.com/pika-2023/.github/assets/90823532/fcc65418-3172-449d-bc0d-145e4e582de5)
+![SOLUTION (1)](https://github.com/pika-2023/.github/assets/90823532/d8e0c4bf-968e-4498-a622-708453befdc4)
+![DISTINCTION](https://github.com/pika-2023/.github/assets/90823532/fb18d103-1d8d-4d61-8c63-cbf76adc5150)
 
 
-전체 서비스 시연 영상은 아래와 같습니다.
+#### Demo 
 
-
+전체 서비스 시연 영상은 [여기](https://youtu.be/1UAefrn8aKo)를 클릭하여 확인하실 수 있습니다.
 
 #### 구현 기능
 
 구현된 기능은 아래와 같습니다.
 
-- :sparkles: 
+- :sparkles: 랜덤 키워드를 통한 회상요법
+- :sparkles: 친구와 추억을 공유할 수 있는 커뮤니티
+- :sparkles: Speech-to-Text 기능을 통해 키보드 프리하게 글을 작성할 수 있는 음성 기반 피드
+
+![USER JOURNEY MAP](https://github.com/pika-2023/.github/assets/90823532/522fa784-eb88-4657-8acd-a1f1534b949e)
 
 ### 설계 :rocket:
 
 #### 디자인
 
-> 더 자세한 UI 작업물은 [피그마](피그마url)에서 확인 가능합니다.
-
-
-
+> 더 자세한 UI 작업물은 [피그마](https://www.figma.com/file/vv0OYNixPv2pL1pFThJ9Ad/%EC%83%88%EB%A1%9D%EC%83%88%EB%A1%9D?type=design&node-id=0-1&t=Gst40xWQ0W1mBxBF-0)에서 확인 가능합니다.
 
 #### 프론트엔드
 
-> 더 자세한 소스코드는 [FRONTEND 디렉토리](프론트엔드 디렉토리) 파일에서 확인 가능합니다.
+> 더 자세한 소스코드는 [FRONTEND 디렉토리](https://github.com/pika-2023/saeroksaerok-frontend) 파일에서 확인 가능합니다.
 
 사용한 기술 스택은 아래와 같습니다.
 
@@ -77,11 +105,15 @@
 
 #### 백엔드
 
-> 더 자세한 소스코드는 [BACKEND 디렉토리](백엔드 디렉토리) 파일에서 확인 가능합니다.
+> 더 자세한 소스코드는 [BACKEND 디렉토리]([백엔드 디렉토리](https://github.com/pika-2023/saeroksaerok-backend)) 파일에서 확인 가능합니다.
 
 사용한 기술 스택은 아래와 같습니다.
 
-- 기술스택
+- Laguage/Framework: Java/Spring Framework
+- Database: MySql, Redis, AWS S3, ElasticSearch
+- API: OpenAi API
+- Server: Apache Tomcat
+- Deploy: Github Actions, AWS EC2, AWS S3, AWS CodeDeploy
 
 ### 라이선스 :scroll:
 
