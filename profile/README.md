@@ -31,7 +31,7 @@
     <td align="center"><a href="깃허브url"><img src="https://avatars.githubusercontent.com/u/71865277?v=4" width="100px;" alt=""/><br /><sub><b>디자이너 : 윤가빈</b></sub></a></td>
     <td align="center"><a href="깃허브url"><img src="https://avatars.githubusercontent.com/u/71865277?v=4" width="100px;" alt=""/><br /><sub><b>프론트엔드 : 장지아</b></sub></a></td>
     <td align="center"><a href="깃허브url"><img src="https://avatars.githubusercontent.com/u/71865277?v=4" width="100px;" alt=""/><br /><sub><b>프론트엔드 : 홍태훈</b></sub></a></td>
-    <td align="center"><a href="깃허브url"><img src="https://avatars.githubusercontent.com/u/71865277?v=4" width="100px;" alt=""/><br /><sub><b>백엔드 : 이현진</b></sub></a></td>
+    <td align="center"><a href="https://github.com/hgene0929"><img src="https://avatars.githubusercontent.com/u/71865277?v=4" width="100px;" alt=""/><br /><sub><b>백엔드 : 이현진</b></sub></a></td>
 
 </tr>
 </table>
@@ -69,8 +69,8 @@
 
 이에 저의 초록초록팀은 **회상요법**을 통한 **치매예방**서비스 **새록새록**을 그에 대한 솔루션으로 제시합니다.
 
-![SOLUTION](https://github.com/pika-2023/.github/assets/90823532/7158478b-a9b3-4bb7-9f1e-5a40b4f47167)
 ![PRODUCT OVERVIEW (1)](https://github.com/pika-2023/.github/assets/90823532/fcc65418-3172-449d-bc0d-145e4e582de5)
+![SOLUTION](https://github.com/pika-2023/.github/assets/90823532/7158478b-a9b3-4bb7-9f1e-5a40b4f47167)
 ![SOLUTION (1)](https://github.com/pika-2023/.github/assets/90823532/d8e0c4bf-968e-4498-a622-708453befdc4)
 ![DISTINCTION](https://github.com/pika-2023/.github/assets/90823532/fb18d103-1d8d-4d61-8c63-cbf76adc5150)
 
