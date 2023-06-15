@@ -1,4 +1,4 @@
-![SOLUTION (1)](https://github.com/pika-2023/.github/assets/90823532/7335e1f3-1d26-4d0d-9092-01a687a41dff)![PRODUCT OVERVIEW](https://github.com/pika-2023/.github/assets/90823532/b476ae4b-262d-47ec-aec4-1811d2770ceb)
+![PRODUCT OVERVIEW](https://github.com/pika-2023/.github/assets/90823532/b476ae4b-262d-47ec-aec4-1811d2770ceb)
 
 > 본 프로젝트는 2023년 00월 00일 0요일부터 00월 00일 0요일까지 00 그리고 00에서 주최하여 진행한 제 1회 0000 출품작입니다.
 
@@ -74,7 +74,6 @@
 ![SOLUTION (1)](https://github.com/pika-2023/.github/assets/90823532/d8e0c4bf-968e-4498-a622-708453befdc4)
 ![DISTINCTION](https://github.com/pika-2023/.github/assets/90823532/fb18d103-1d8d-4d61-8c63-cbf76adc5150)
 
-
 #### Demo 
 
 전체 서비스 시연 영상은 [여기](https://youtu.be/1UAefrn8aKo)를 클릭하여 확인하실 수 있습니다.
@@ -105,7 +104,7 @@
 
 #### 백엔드
 
-> 더 자세한 소스코드는 [BACKEND 디렉토리]([백엔드 디렉토리](https://github.com/pika-2023/saeroksaerok-backend)) 파일에서 확인 가능합니다.
+> 더 자세한 소스코드는 [BACKEND 디렉토리](https://github.com/pika-2023/saeroksaerok-backend) 파일에서 확인 가능합니다.
 
 사용한 기술 스택은 아래와 같습니다.
 
