@@ -27,11 +27,11 @@
 
 <table>
 <tr>
-    <td align="center"><a href="깃허브url"><img src="https://avatars.githubusercontent.com/u/71865277?v=4" width="100px;" alt=""/><br /><sub><b>기획자 : 손수빈</b></sub></a></td>
-    <td align="center"><a href="깃허브url"><img src="https://avatars.githubusercontent.com/u/71865277?v=4" width="100px;" alt=""/><br /><sub><b>디자이너 : 윤가빈</b></sub></a></td>
-    <td align="center"><a href="깃허브url"><img src="https://avatars.githubusercontent.com/u/71865277?v=4" width="100px;" alt=""/><br /><sub><b>프론트엔드 : 장지아</b></sub></a></td>
-    <td align="center"><a href="깃허브url"><img src="https://avatars.githubusercontent.com/u/71865277?v=4" width="100px;" alt=""/><br /><sub><b>프론트엔드 : 홍태훈</b></sub></a></td>
-    <td align="center"><a href="https://github.com/hgene0929"><img src="https://avatars.githubusercontent.com/u/63915557?v=4" width="100px;" alt=""/><br /><sub><b>백엔드 : 이현진</b></sub></a></td>
+    <td align="center"><a href="깃허브url"><img src="" width="100px;" alt=""/><br /><sub><b>기획자 : 손수빈</b></sub></a></td>
+    <td align="center"><a href="깃허브url"><img src="" width="100px;" alt=""/><br /><sub><b>디자이너 : 윤가빈</b></sub></a></td>
+    <td align="center"><a href="깃허브url"><img src="" width="100px;" alt=""/><br /><sub><b>프론트엔드 : 장지아</b></sub></a></td>
+    <td align="center"><a href="깃허브url"><img src="" width="100px;" alt=""/><br /><sub><b>프론트엔드 : 홍태훈</b></sub></a></td>
+    <td align="center"><a href="https://github.com/hgene0929"><img src="https://avatars.githubusercontent.com/u/90823532?v=4" width="100px;" alt=""/><br /><sub><b>백엔드 : 이현진</b></sub></a></td>
 
 </tr>
 </table>
